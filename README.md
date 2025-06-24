@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTVlYXVkZDF1MmFiODEzYTVwYTdobDE2OW5hZTYxdTQ2YTRudHhoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5Zesu5VPNGJlm/giphy.gif"  />
+  <img height="150" src="https://media1.tenor.com/m/kSiC-0wGr4kAAAAd/monkey-technology.gif"  />
 </div>
 
 ###
